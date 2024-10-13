@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphic Designer Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h1>About Me</h1>
+        <p>Hi, I'm [Bianca Janella Jazul], a passionate graphic designer with a love for creating visually stunning designs. With [5] years of experience in the industry, I've had the privilege of working with [Starbucks Coffee] to bring their brand visions to life.</p>
+        <img src="about.jpg" alt="About Image">
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h1>Projects</h1>
+        <div class="project">
+            <img src="project1.jpg" alt="Project 1">
+            <h2>Project 1: Branding for XYZ Corporation</h2>
+            <p>This project involved creating a comprehensive brand identity for XYZ Corporation, including a logo, business cards, and website design.</p>
+        </div>
+        <div class="project">
+            <img src="project2.jpg" alt="Project 2">
+            <h2>Project 2: Brochure Design for ABC Company</h2>
+            <p>This project involved designing a tri-fold brochure for ABC Company, highlighting their products and services.</p>
+        </div>
+        <div class="project">
+            <img src="project3.jpg" alt="Project 3">
+            <h2>Project 3: Website Design for DEF Agency</h2>
+            <p>This project involved designing a responsive website for DEF Agency, featuring a modern and sleek design.</p>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h1>Skills</h1>
+        <ul>
+            <li>Graphic Design</li>
+            <li>UI/UX Design</li>
+            <li>Branding</li>
+            <li>Web Design</li>
+            <li>Print Design</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h1>Get in Touch</h1>
+        <p>Want to collaborate on a project or just say hi? Send me an email at <a href="mailto:your@email.com">your@email.com</a> or connect with me on social media:</p>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.instagram.com/yourinstagramprofile/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.behance.net/yourbehanceprofile" target="_blank">Behance</a></li>
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 [Bianca Janella Jazul]. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
